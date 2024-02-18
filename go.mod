@@ -1,4 +1,4 @@
-module zoid007/go-plist
+module github.com/zoid007/go-plist
 
 go 1.12
 
